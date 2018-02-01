@@ -1,4 +1,6 @@
-# A module to analyse Kendo movements with the TI chronos 433 watch.
+# A module to analyse Kendo movements with the TI chronos eZ 430 watch.
+
+This module should be used with the [ez430 library](https://github.com/wolfmankurd/eZ430-tools) from wolfmankurd.
 
 ## Kendo
 A Japanese martial art derived from samurai sword fighting. [A small description from the Dojo in Groningen](https://www.kendogroningen.nl/wordpress/?page_id=2).
